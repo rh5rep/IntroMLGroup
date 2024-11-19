@@ -1,0 +1,178 @@
+
+Starting Outer Cross-Validation...
+
+
+Outer Fold 1:
+
+  h: 1, Inner Fold MSE: 132.7237
+  h: 175, Inner Fold MSE: 25.0732
+  h: 250, Inner Fold MSE: 24.0598
+  h: 325, Inner Fold MSE: 22.7007
+  h: 400, Inner Fold MSE: 21.5508
+  h: 475, Inner Fold MSE: 17.8262
+  h: 550, Inner Fold MSE: 19.9694
+  h: 625, Inner Fold MSE: 19.0690
+  h: 700, Inner Fold MSE: 20.8211
+  h: 750, Inner Fold MSE: 20.8236
+
+Outer Fold 1: Best h = 475, Outer Test MSE = 20.4294
+
+
+Outer Fold 2:
+
+  h: 1, Inner Fold MSE: 134.4664
+  h: 175, Inner Fold MSE: 23.1396
+  h: 250, Inner Fold MSE: 18.9303
+  h: 325, Inner Fold MSE: 22.1315
+  h: 400, Inner Fold MSE: 20.4476
+  h: 475, Inner Fold MSE: 19.9073
+  h: 550, Inner Fold MSE: 18.8851
+  h: 625, Inner Fold MSE: 19.3286
+  h: 700, Inner Fold MSE: 20.0547
+  h: 750, Inner Fold MSE: 19.8817
+
+Outer Fold 2: Best h = 550, Outer Test MSE = 18.2890
+
+
+Outer Fold 3:
+
+  h: 1, Inner Fold MSE: 131.0563
+  h: 175, Inner Fold MSE: 22.4482
+  h: 250, Inner Fold MSE: 20.4906
+  h: 325, Inner Fold MSE: 22.3444
+  h: 400, Inner Fold MSE: 19.8191
+  h: 475, Inner Fold MSE: 19.2430
+  h: 550, Inner Fold MSE: 18.9979
+  h: 625, Inner Fold MSE: 21.1382
+  h: 700, Inner Fold MSE: 19.8803
+  h: 750, Inner Fold MSE: 20.4468
+
+Outer Fold 3: Best h = 550, Outer Test MSE = 18.7297
+
+
+Outer Fold 4:
+
+  h: 1, Inner Fold MSE: 134.3255
+  h: 175, Inner Fold MSE: 22.1487
+  h: 250, Inner Fold MSE: 20.3854
+  h: 325, Inner Fold MSE: 21.1588
+  h: 400, Inner Fold MSE: 20.3284
+  h: 475, Inner Fold MSE: 19.5024
+  h: 550, Inner Fold MSE: 18.3439
+  h: 625, Inner Fold MSE: 17.2114
+  h: 700, Inner Fold MSE: 20.4050
+  h: 750, Inner Fold MSE: 21.5724
+
+Outer Fold 4: Best h = 625, Outer Test MSE = 19.3757
+
+
+Outer Fold 5:
+
+  h: 1, Inner Fold MSE: 131.5819
+  h: 175, Inner Fold MSE: 22.8825
+  h: 250, Inner Fold MSE: 21.5431
+  h: 325, Inner Fold MSE: 23.3485
+  h: 400, Inner Fold MSE: 22.4309
+  h: 475, Inner Fold MSE: 18.0765
+  h: 550, Inner Fold MSE: 19.2933
+  h: 625, Inner Fold MSE: 20.7088
+  h: 700, Inner Fold MSE: 20.4923
+  h: 750, Inner Fold MSE: 17.4835
+
+Outer Fold 5: Best h = 750, Outer Test MSE = 18.1424
+
+
+Outer Fold 6:
+
+  h: 1, Inner Fold MSE: 131.2307
+  h: 175, Inner Fold MSE: 24.3359
+  h: 250, Inner Fold MSE: 22.2355
+  h: 325, Inner Fold MSE: 19.7146
+  h: 400, Inner Fold MSE: 20.9326
+  h: 475, Inner Fold MSE: 20.5241
+  h: 550, Inner Fold MSE: 19.1437
+  h: 625, Inner Fold MSE: 18.9451
+  h: 700, Inner Fold MSE: 19.2815
+  h: 750, Inner Fold MSE: 20.7006
+
+Outer Fold 6: Best h = 625, Outer Test MSE = 18.4838
+
+
+Outer Fold 7:
+
+  h: 1, Inner Fold MSE: 149.0364
+  h: 175, Inner Fold MSE: 24.9781
+  h: 250, Inner Fold MSE: 20.0594
+  h: 325, Inner Fold MSE: 21.3429
+  h: 400, Inner Fold MSE: 22.4288
+  h: 475, Inner Fold MSE: 20.5985
+  h: 550, Inner Fold MSE: 18.6509
+  h: 625, Inner Fold MSE: 18.0295
+  h: 700, Inner Fold MSE: 20.6820
+  h: 750, Inner Fold MSE: 18.7988
+
+Outer Fold 7: Best h = 625, Outer Test MSE = 20.8957
+
+
+Outer Fold 8:
+
+  h: 1, Inner Fold MSE: 136.1664
+  h: 175, Inner Fold MSE: 23.0019
+  h: 250, Inner Fold MSE: 20.4144
+  h: 325, Inner Fold MSE: 23.4733
+  h: 400, Inner Fold MSE: 23.3333
+  h: 475, Inner Fold MSE: 19.6778
+  h: 550, Inner Fold MSE: 20.8036
+  h: 625, Inner Fold MSE: 20.3594
+  h: 700, Inner Fold MSE: 18.2032
+  h: 750, Inner Fold MSE: 19.1540
+
+Outer Fold 8: Best h = 700, Outer Test MSE = 21.4671
+
+
+Outer Fold 9:
+
+  h: 1, Inner Fold MSE: 140.6923
+  h: 175, Inner Fold MSE: 20.0165
+  h: 250, Inner Fold MSE: 26.1581
+  h: 325, Inner Fold MSE: 22.3368
+  h: 400, Inner Fold MSE: 18.5824
+  h: 475, Inner Fold MSE: 20.6119
+  h: 550, Inner Fold MSE: 18.6253
+  h: 625, Inner Fold MSE: 20.6475
+  h: 700, Inner Fold MSE: 21.2641
+  h: 750, Inner Fold MSE: 17.4100
+
+Outer Fold 9: Best h = 750, Outer Test MSE = 18.1658
+
+
+Outer Fold 10:
+
+  h: 1, Inner Fold MSE: 134.4198
+  h: 175, Inner Fold MSE: 24.6179
+  h: 250, Inner Fold MSE: 20.5647
+  h: 325, Inner Fold MSE: 17.6386
+  h: 400, Inner Fold MSE: 21.5637
+  h: 475, Inner Fold MSE: 20.2513
+  h: 550, Inner Fold MSE: 20.5952
+  h: 625, Inner Fold MSE: 19.0526
+  h: 700, Inner Fold MSE: 19.5351
+  h: 750, Inner Fold MSE: 18.9615
+
+Outer Fold 10: Best h = 325, Outer Test MSE = 20.4293
+
+
+Cross-Validation Results:
+   outer_fold  best_h   test_mse
+0           1     475  20.429443
+1           2     550  18.289010
+2           3     550  18.729707
+3           4     625  19.375694
+4           5     750  18.142387
+5           6     625  18.483846
+6           7     625  20.895688
+7           8     700  21.467113
+8           9     750  18.165838
+9          10     325  20.429290
+
+Average Test MSE across all outer folds: 19.4408
